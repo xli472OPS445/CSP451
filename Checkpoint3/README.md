@@ -8,3 +8,4 @@ Conclusion 01: the force push results in the local change overwrite the remote o
 
 Conclusion 02: the reset and pull results in the local change overwrite the remote one: change to darkolivegreen
 
+Conclusion 03: 
