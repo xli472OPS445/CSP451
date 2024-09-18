@@ -5,3 +5,6 @@
 ** TEACHER'S NAME: DAVID CHAN 
 
 Conclusion 01: the force push results in the local change overwrite the remote one: change to Green 
+
+Conclusion 02: the reset and pull results in the local change overwrite the remote one: change to darkolivegreen
+
